@@ -35,6 +35,8 @@ public class MainClass {
 		System.out.println(student3.getHeight());//180
 		System.out.println(student3.getWeight());//80
 		
+		ctx.close();
+		
 	}
 
 }
